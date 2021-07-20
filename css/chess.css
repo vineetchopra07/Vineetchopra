@@ -10,18 +10,17 @@ body{
   top: 40%;
   font-size: 90px;
   margin: auto;
-
-  color:#E6DDC6;
-  text-shadow: 3px 3px #47597E;
+  color:#F5E6CA;
 }
 .img1{
   position:relative;
   float: left;
-  height: 250px;
+  height: 17rem;
   left: 5%;
-  width: 25%;
+  width: 20rem;
 }
 .para1{
+  font-family: 'Yomogi', cursive;
   line-height: 2;
   margin-top: 10%;
   text-shadow: 1px 1px black;
@@ -29,13 +28,13 @@ body{
   font-weight: bold;
   font-style: oblique;
   text-align: center;
-  color: #E6DDC6;
+  color: #DDDDDD;;
 }
 .head1{
   font-size: 250%;
-  color: #865439;
+  color: #A0937D;
   font-weight: bold;
-  text-shadow:3px 3px gray;
+  text-shadow:3px 3px #F5E6CA;
   font-family: 'Otomanopee One', sans-serif;
   text-decoration: underline;
 }
@@ -43,7 +42,7 @@ body{
   margin-left: 20px;
   font-size: 200%;
   font-family:monospace;
-  color: #E6DDC6;
+  color: #DDDDDD;
 }
 .a12{
   background-color: #EEEEEE;
@@ -51,7 +50,7 @@ body{
 }
 .ul2{
   font-size: 200%;
-  color: #E6DDC6;
+  color: #DDDDDD;
 }
 .img2{
   margin:5%;

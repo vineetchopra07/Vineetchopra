@@ -17,6 +17,7 @@ body {
 	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
 	background-size: cover;
 	color: transparent;
+	font-family: sans-serif;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
 	text-transform: uppercase;

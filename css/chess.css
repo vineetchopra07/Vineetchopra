@@ -1,6 +1,7 @@
 body{
   background-color: #F2EDD7;
   text-align: center;
+  font-family: 'Otomanopee One', sans-serif;
 }
 .title{
   position: relative;
@@ -9,7 +10,7 @@ body{
   top: 40%;
   font-size: 90px;
   margin: auto;
-  font-family:fantasy;
+
   color:#E6DDC6;
   text-shadow: 3px 3px #47597E;
 }
@@ -27,7 +28,6 @@ body{
   font-size: 30px;
   font-weight: bold;
   font-style: oblique;
-  font-family: fantasy;
   text-align: center;
   color: #E6DDC6;
 }
@@ -36,7 +36,7 @@ body{
   color: #865439;
   font-weight: bold;
   text-shadow:3px 3px gray;
-  font-family:fantasy;
+  font-family: 'Otomanopee One', sans-serif;
   text-decoration: underline;
 }
 .ul1{
@@ -47,12 +47,10 @@ body{
 }
 .a12{
   background-color: #EEEEEE;
-  font-family: monospace;
   font-size: 30px;
 }
 .ul2{
   font-size: 200%;
-  font-family:monospace;
   color: #E6DDC6;
 }
 .img2{
@@ -64,7 +62,7 @@ body{
 }
 .para2{
   text-shadow: 1px 1px black;
-  width:80%;
+  width:100%;
   margin: 5px 3% 5px 0;
 }
 .p12{
